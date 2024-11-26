@@ -6,4 +6,4 @@
 
 
 #### Products Page:
-![Products page image](screens/index_page.png "This is a placeholder image")
+![Products page image](screens/products_page.png "This is a placeholder image")
